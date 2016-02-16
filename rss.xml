@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ROBGRUNDEN]]></title>
+        <description><![CDATA[ROBGRUNDEN]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Feb 2016 21:06:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This short paper is meant to inform the reader of the role of
+the Trinity, particularly with regards to both the inspiration and ongoing work
+of the Word of God. However, before we can jump into defining these roles, we
+must first define what is meant by “inspiration” and “ongoing work”. These two
+quick definitions will serve as foundational knowledge that must be understood
+before discussing the individual roles of Father, Son, and Spirit.</p>]]></description>
+            <link>undefineda3bad99f-5ca2-47a9-94d6-7a01fab6c874/index.html</link>
+            <guid isPermaLink="false">a3bad99f-5ca2-47a9-94d6-7a01fab6c874</guid>
+            <pubDate>Tue, 16 Feb 2016 21:06:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
