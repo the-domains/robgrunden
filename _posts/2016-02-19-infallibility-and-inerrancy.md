@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T04:11:50.711Z'
-dateModified: '2016-02-19T04:11:40.775Z'
+datePublished: '2016-02-19T04:19:04.718Z'
+dateModified: '2016-02-19T04:18:58.104Z'
 title: 'Infallibility & Inerrancy'
 author: []
 authors: []
