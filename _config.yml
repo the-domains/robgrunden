@@ -1,4 +1,4 @@
-name: ROBGRUNDEN
+name: ROB GRUNDEN
 favicon: null
 layout_spectrum: 0.3271910985931754
 typography_spectrum: 0.6404494496528059
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.8859558156691492
+    - '#f7f6da'
+    - '#363749'
+    - '#6b6d55'
+    - '#bab36f'
+    - '#b64f4c'
+  brandStrength: 0.1875
   lightness: 0.24909499450586736
   saturation: 0.7675985943060368
   rhythmicContrast: 0.3033513107802719
